@@ -1,0 +1,21 @@
+station,material,median_dT,change_alpha_plus_0p02,change_alpha_minus_0p02,change_eps_plus_0p02,change_eps_minus_0p02,dT_per_unit_alpha,dT_per_unit_eps,eps_increase_to_offset_alpha_0p01
+Dhahran,BaSO4-acrylic paint,-2.3025,0.6699,-0.6705,-0.0461,0.0469,34.3681,-2.3254,0.1478
+Dhahran,BaSO4 nanoparticle film,-2.1713,0.6696,-0.6876,-0.0504,0.049,33.9311,-2.4837,0.1366
+Dhahran,CaCO3 paint,-1.4214,0.6617,-0.6677,-0.0511,0.053,33.2352,-2.602,0.1277
+Dhahran,Hierarchically porous P(VdF-HFP) coating,-1.649,0.6455,-0.6664,-0.0558,0.0502,32.798,-2.6512,0.1237
+Dhahran,Commercial white paint (control),1.3122,0.6321,-0.6908,-0.0877,0.0581,33.0729,-3.6463,0.0907
+Jeddah,BaSO4-acrylic paint,-2.0693,0.814,-0.7948,-0.0482,0.048,41.2511,-2.4039,0.1716
+Jeddah,BaSO4 nanoparticle film,-1.8843,0.8165,-0.8419,-0.0489,0.0467,41.4601,-2.3886,0.1736
+Jeddah,CaCO3 paint,-0.9684,0.8057,-0.8335,-0.056,0.0525,40.9786,-2.712,0.1511
+Jeddah,Hierarchically porous P(VdF-HFP) coating,-1.2642,0.8215,-0.8112,-0.0535,0.0514,40.8175,-2.6237,0.1556
+Jeddah,Commercial white paint (control),2.3794,0.7981,-0.8016,-0.0726,0.0702,39.9928,-3.5687,0.1121
+Al Wajh,BaSO4-acrylic paint,-1.7126,0.7119,-0.6885,-0.0391,0.0397,35.9083,-1.9697,0.1823
+Al Wajh,BaSO4 nanoparticle film,-1.5566,0.7131,-0.7139,-0.0412,0.0416,35.6745,-2.0705,0.1723
+Al Wajh,CaCO3 paint,-0.758,0.723,-0.7238,-0.0462,0.0462,36.1703,-2.3114,0.1565
+Al Wajh,Hierarchically porous P(VdF-HFP) coating,-1.011,0.7122,-0.7056,-0.0429,0.0476,35.4453,-2.2626,0.1567
+Al Wajh,Commercial white paint (control),2.2801,0.7748,-0.7472,-0.0633,0.0726,38.0498,-3.3969,0.112
+Al Baha,BaSO4-acrylic paint,-5.1257,0.8605,-0.8332,-0.09,0.0878,43.4294,-4.4457,0.0977
+Al Baha,BaSO4 nanoparticle film,-4.979,0.8721,-0.8527,-0.092,0.0931,43.1206,-4.6279,0.0932
+Al Baha,CaCO3 paint,-3.9542,0.9551,-0.8937,-0.1083,0.1044,46.2209,-5.3162,0.0869
+Al Baha,Hierarchically porous P(VdF-HFP) coating,-4.3201,0.9278,-0.8564,-0.0925,0.0955,44.6067,-4.7013,0.0949
+Al Baha,Commercial white paint (control),-0.2559,0.8999,-0.8983,-0.1332,0.1214,44.9541,-6.3641,0.0706

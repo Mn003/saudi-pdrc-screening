@@ -1,0 +1,21 @@
+station,material,median_dT,change_alpha_plus_0p02,change_alpha_minus_0p02,change_eps_plus_0p02,change_eps_minus_0p02,dT_per_unit_alpha,dT_per_unit_eps,eps_increase_to_offset_alpha_0p01
+Dhahran,BaSO4-acrylic paint,-1.3611,0.3901,-0.3607,-0.0326,0.0335,19.2508,-1.6521,0.1165
+Dhahran,BaSO4 nanoparticle film,-1.2725,0.3797,-0.3938,-0.0304,0.0306,19.3376,-1.5257,0.1267
+Dhahran,CaCO3 paint,-0.8371,0.3854,-0.3848,-0.0351,0.034,19.2555,-1.7281,0.1114
+Dhahran,Hierarchically porous P(VdF-HFP) coating,-0.9852,0.3835,-0.3868,-0.0348,0.0316,19.2562,-1.6582,0.1161
+Dhahran,Commercial white paint (control),0.7793,0.3879,-0.4094,-0.0445,0.0417,19.9336,-2.1551,0.0925
+Jeddah,BaSO4-acrylic paint,-1.1524,0.4609,-0.4224,-0.0284,0.0302,22.6479,-1.466,0.1545
+Jeddah,BaSO4 nanoparticle film,-1.0562,0.4594,-0.441,-0.0301,0.0292,22.51,-1.4808,0.152
+Jeddah,CaCO3 paint,-0.542,0.4496,-0.4599,-0.0322,0.0284,22.738,-1.5132,0.1503
+Jeddah,Hierarchically porous P(VdF-HFP) coating,-0.6992,0.4441,-0.4598,-0.0317,0.0297,22.5976,-1.5355,0.1472
+Jeddah,Commercial white paint (control),1.3318,0.4563,-0.452,-0.0374,0.0409,22.7077,-1.9564,0.1161
+Al Wajh,BaSO4-acrylic paint,-1.0028,0.4182,-0.3871,-0.0261,0.0255,20.6477,-1.2887,0.1602
+Al Wajh,BaSO4 nanoparticle film,-0.9144,0.4239,-0.407,-0.0277,0.0274,20.7736,-1.3791,0.1506
+Al Wajh,CaCO3 paint,-0.4433,0.4221,-0.4225,-0.0284,0.0312,21.1167,-1.4881,0.1419
+Al Wajh,Hierarchically porous P(VdF-HFP) coating,-0.5912,0.4151,-0.4189,-0.0271,0.0277,20.8508,-1.3698,0.1522
+Al Wajh,Commercial white paint (control),1.3188,0.432,-0.4199,-0.0343,0.0356,21.2952,-1.748,0.1218
+Al Baha,BaSO4-acrylic paint,-2.7995,0.4931,-0.4495,-0.0575,0.0582,24.1703,-2.8921,0.0836
+Al Baha,BaSO4 nanoparticle film,-2.6972,0.491,-0.4812,-0.0577,0.0576,24.3059,-2.883,0.0843
+Al Baha,CaCO3 paint,-2.1217,0.4855,-0.4994,-0.0622,0.061,24.6221,-3.0806,0.0799
+Al Baha,Hierarchically porous P(VdF-HFP) coating,-2.3413,0.4906,-0.4913,-0.0607,0.0628,24.5489,-3.0887,0.0795
+Al Baha,Commercial white paint (control),-0.1538,0.5151,-0.4724,-0.0616,0.0795,24.6873,-3.5263,0.07
