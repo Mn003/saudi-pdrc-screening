@@ -11,7 +11,16 @@ For every hour of typical-year weather at four Saudi stations (Dhahran, Jeddah, 
 - **Solver:** Brent's method (`scipy.optimize.brentq`), bracketed ±100 K around air temperature.
 
 ## Data
-- **Weather:** Climate.OneBuilding TMYx files in `epw_files/` (Dhahran, Jeddah and Al Baha: 2011–2025 records; Al Wajh: 2007–2021).
+- **Weather:** Climate.OneBuilding TMYx files in `epw_files/` (Dhahran, Jeddah and Al Baha: 2011–2025 records; Al Wajh: 2007–2021). If the folder is missing, download these four files from https://climate.onebuilding.org (Saudi Arabia section), unzip them and place the `.epw` files in `epw_files/`:
+
+  | Station | WMO ID | File |
+  | --- | --- | --- |
+  | Dhahran (Abdulaziz Air Base) | 404160 | `SAU_SH_Dhahran-Abdulaziz.AB.404160_TMYx.2011-2025.epw` |
+  | Jeddah (Abdulaziz International Airport) | 410240 | `SAU_MK_Jeddah-Abdulaziz.Intl.AP.410240_TMYx.2011-2025.epw` |
+  | Al Wajh (Airport) | 404000 | `SAU_TB_Wajh.AP.404000_TMYx.2007-2021.epw` |
+  | Al Baha (Aqiq, Abdulaziz Airport) | 410550 | `SAU_BA_Aqiq-Abdulaziz.AP.410550_TMYx.2011-2025.epw` |
+
+  The code checks that each file has 8,760 complete hours and stops with an error otherwise.
 - **Materials:** `materials_verified.csv` holds the 4 PDRC materials and 1 commercial white paint control whose properties were checked against the original papers (source page recorded for each). `materials_database.csv` is the older literature list; its values have **not** yet been verified.
 
 ## Validation status
